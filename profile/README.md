@@ -1,12 +1,31 @@
-## Hi there 👋
+# Wir kümmern uns um alles, was Sie nicht selbst hosten wollen.
 
-<!--
+Inframonks bietet hochverfügbare, automatisierte Infrastruktur auf Basis von Open Source. Unsere Kunden erhalten stabile Systeme, volle Kontrolle und umfassenden Support – ohne Public Cloud-Zwang.
 
-**Here are some ideas to get you started:**
+## Unsere Leistungen
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Infrastruktur-Betrieb & darüber hinaus
+* 🏢 RZ-Fläche & Hosting (on-prem & hybrid)
+* 📦 Virtualisierung mit Proxmox VE
+* 🔧 Standardisierte VMs & Automatisierung
+* 🧠 Netzwerkdienste: DNS, NTP, Auth, Proxy, PKI
+* 📊 Monitoring mit Prometheus, Grafana, Loki
+* 🧰 Self-Hosting Beratung oder vollständige SaaS-Lösungen
+* 🔐 Fokus auf Verschlüsselung, Sicherheit & Open Source
+
+
+## Wer wir sind
+
+Techniker. Perfektionisten. Partner.
+
+Wir sind ein Team aus erfahrenen Systemadministratoren, Entwicklern und Beratern, die eine Vision teilen: Infrastruktur soll einfach, effizient und vollständig kontrollierbar sein. Wir lieben Open Source, arbeiten automatisiert und beraten ehrlich.
+
+**Unsere Mission: Wir übernehmen die technische Basis, damit sich unsere Kunden auf ihr Kerngeschäft konzentrieren können.**
+
+## Warum Inframonks?
+
+Autonomie statt Cloud-Abhängigkeit
+* 🔓 100% Transparenz – durch Open Source
+* 🛡️ Datenschutz & Sicherheit by Design
+* ⚙️ Effizienz durch Automatisierung
+* 🧘 Technischer Fokus mit ruhiger Hand
